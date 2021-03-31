@@ -1,0 +1,14 @@
+Debug[2021-03-19 22:50:04]C:/Users/surface/Desktop/modchecktool/littletool/checktool/config.go:42(modchecktool/littletool/checktool.(*ToolData).ReadDebugMode)debug mode on
+Debug[2021-03-19 22:50:04]C:/Users/surface/Desktop/modchecktool/littletool/checktool/config.go:48(modchecktool/littletool/checktool.(*ToolData).ReadSelectLabel)enter ReadSelectLabel
+Debug[2021-03-19 22:50:04]C:/Users/surface/Desktop/modchecktool/littletool/checktool/config.go:10(modchecktool/littletool/checktool.(*ToolData).setDefaultConfig)enter
+Debug[2021-03-19 22:50:04]C:/Users/surface/Desktop/modchecktool/littletool/checktool/config.go:19(modchecktool/littletool/checktool.(*ToolData).setDefaultConfig)set default Config success
+Debug[2021-03-19 22:50:04]C:/Users/surface/Desktop/modchecktool/littletool/checktool/config.go:58(modchecktool/littletool/checktool.(*ToolData).ReadSelectLabel)skip select labels
+Debug[2021-03-19 22:50:04]C:/Users/surface/Desktop/modchecktool/littletool/checktool/config.go:87(modchecktool/littletool/checktool.(*ToolData).ReadTime)enter
+Debug[2021-03-19 22:50:05]C:/Users/surface/Desktop/modchecktool/littletool/checktool/config.go:93(modchecktool/littletool/checktool.(*ToolData).ReadTime)ReadTime config skip
+Debug[2021-03-19 22:50:05]C:/Users/surface/Desktop/modchecktool/littletool/checktool/config.go:127(modchecktool/littletool/checktool.(*ToolData).ReadElementType)enter
+Debug[2021-03-19 22:50:06]C:/Users/surface/Desktop/modchecktool/littletool/checktool/config.go:132(modchecktool/littletool/checktool.(*ToolData).ReadElementType)select ElementTypes config skip
+Debug[2021-03-19 22:50:06]C:/Users/surface/Desktop/modchecktool/littletool/checktool/cache.go:288(modchecktool/littletool/checktool.(*ToolData).setResult)enter
+Debug[2021-03-19 22:50:06]C:/Users/surface/Desktop/modchecktool/littletool/checktool/cache.go:245(modchecktool/littletool/checktool.(*ToolData).printAllResult)enter
+Debug[2021-03-19 22:50:06]C:/Users/surface/Desktop/modchecktool/littletool/checktool/cache.go:217(modchecktool/littletool/checktool.(*ToolData).printFailParaList)enter
+Debug[2021-03-19 22:50:06]C:/Users/surface/Desktop/modchecktool/littletool/checktool/cache.go:217(modchecktool/littletool/checktool.(*ToolData).printFailParaList)enter
+Debug[2021-03-19 22:50:06]C:/Users/surface/Desktop/modchecktool/littletool/checktool/checktool.go:118(modchecktool/littletool/checktool.(*ToolData).StartCheck)all file check finish
